@@ -1,0 +1,3 @@
+insert into usuarios(usuario,password,rol) values ('Alexander','$$2a$12$3QL06I3nJmqz3VlvoSPKKuDmhbtzx8Gp2ZZRD1iKog.DKtyNO69kO','ROLE_USER')
+insert into usuarios(usuario,password,rol) values ('Pancho','$2a$12$5b0XwS4V9D.G3/d4yUoo4OWyjS3xQ26BDfigiZzuB/OI6vg7Ymp.W','ROLE_USER')
+insert into usuarios(usuario,password,rol) values ('Lucho','$2a$12$/fepPNbY5Wv2.4qh6r/sPOXBX1rsAA90/v8LidKfc4WP8lwW0Ukue','ROLE_USER')
